@@ -18,7 +18,7 @@ Detailed description:
 ### Jira Ticket Link
 
 <!-- Include a link to the relevant Jira ticket -->
-[PLTFRS-XXX](https://issues.sierrawireless.com/browse/PLTFRS-XXX)
+PLTFRS-XXX
 
 ### Summary of Changes
 
