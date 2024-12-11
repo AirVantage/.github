@@ -66,7 +66,7 @@ _Links to blog posts, patterns, libraries or addons used to solve this problem_
 <!-- - [ ] Code is self-documenting and follows the [coding standards](....) -->
 - [ ] All new and existing tests pass
 - [ ] Documentation has been updated (if necessary)
-- [ ] PR title follows the naming convention: `JiraTicket Short Summary`
+- [ ] PR title follows the naming convention: `JIRAPRJ-1111: Short Summary`
 - [ ] The associated issue(s) are linked above.
 - [ ] PR resolves the associated Jira ticket
 - [ ] This PR meets all acceptance criteria for those issues.
