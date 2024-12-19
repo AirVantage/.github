@@ -1,9 +1,9 @@
 ### Pull Request Title
-**Format:** `PLTFRS-XXX: Short Description of the Change`
+**Format:** `PLTFRS-XXX - Short Description of the Change`
 
 ### Merge Commit Summary
 <!-- Only this section will be used as the commit message -->
-[PLTFRS-XXX] Short Description of the Change
+PLTFRS-XXX - Short Description of the Change
 
 Detailed description:
 1. [Main point]
